@@ -15,7 +15,7 @@ Please be respectful, inclusive, and collaborative in all interactions within th
 ## How to Contribute
 
 ### Reporting Bugs
-1. Check existing [Issues](https://github.com/sputlab/MorseTrainer/issues) to avoid duplicates.
+1. Check existing [Issues](https://github.com/sputlab/morsetrainer/issues) to avoid duplicates.
 2. If the bug has not been reported, open a new issue using the **Bug Report** template.
 3. Include device, operating system, and browser version, along with reproduction steps.
 

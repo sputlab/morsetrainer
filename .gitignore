@@ -28,3 +28,9 @@ node_modules/
 .cache/
 dist/
 build/
+
+# Legacy HTML builds (superseded by index.html)
+morsetrainer.html
+morsetrainer101.html
+morsetrainer*.html
+!index.html

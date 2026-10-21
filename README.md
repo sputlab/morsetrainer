@@ -1,6 +1,7 @@
 # MorseTrainer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
+[![Release](https://img.shields.io/badge/release-v1.0.1-2dd4bf.svg)](https://github.com/sputlab/morsetrainer/releases)
 [![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-brightgreen.svg)](#)
 [![Web Audio API](https://img.shields.io/badge/Audio-Web%20Audio%20API-orange.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Web%20Browser-blue.svg)](#)
@@ -52,7 +53,7 @@ No build process or dependencies required! Simply clone the repository and open 
 
 ```bash
 # Clone the repository
-git clone https://github.com/sputlab/MorseTrainer.git
+git clone https://github.com/sputlab/morsetrainer.git
 
 # Open index.html directly in your default browser
 open index.html   # On macOS
@@ -106,7 +107,7 @@ At 15 WPM, 1 unit equals 80 ms.
 ## 📂 Project Structure
 
 ```text
-MorseTrainer/
+morsetrainer/
 ├── .github/
 │   ├── workflows/
 │   │   └── deploy.yml          # Automated GitHub Pages deployment
@@ -115,8 +116,6 @@ MorseTrainer/
 │   │   └── feature_request.md  # GitHub issue template for ideas
 │   └── PULL_REQUEST_TEMPLATE.md
 ├── index.html                  # Main application entry point (v1.0.1)
-├── morsetrainer101.html        # Versioned standalone release
-├── morsetrainer.html           # Original build
 ├── .gitignore                  # Git ignore rules
 ├── CONTRIBUTING.md             # Contribution guidelines
 ├── LICENSE                     # MIT License
